@@ -2,6 +2,7 @@
   "name": "card-match-up",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kingkaloli.github.io/card-match-up/",
   "dependencies": {
     "react": "^16.8.6",
     "react-card-flip": "^0.6.0",
